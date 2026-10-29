@@ -1,0 +1,6 @@
+{
+  "name": "리듬케어 (RhythmCare) - 건강 생활 패턴 지도 & 바이오리듬 코치",
+  "description": "생체 시계(서카디언 리듬)에 기반한 24시간 맞춤 건강 생활 패턴 가이드, 수면·수분·식사·운동 습관 코칭 및 AI 생활 습관 분석",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
